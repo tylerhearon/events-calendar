@@ -9,3 +9,23 @@ html {
 .daysheader {
   border-bottom: 2px solid #e2e2e2;
 }
+
+.week1 {
+  height: 10em;
+}
+
+.week2 {
+  height: 10em;
+}
+
+.week3 {
+  height: 7em;
+}
+
+.week4 {
+  height: 11em;
+}
+
+.week5 {
+  height: 10em;
+}
