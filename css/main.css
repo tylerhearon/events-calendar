@@ -1,3 +1,11 @@
 html {
   font-family: Merriweather, serif;
 }
+
+.greyborder {
+  border: 1px solid #e2e2e2;
+}
+
+.daysheader {
+  border-bottom: 2px solid #e2e2e2;
+}
