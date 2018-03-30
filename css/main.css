@@ -1,13 +1,15 @@
 html {
   font-family: Merriweather, serif;
+  background-color: #fff;
 }
 
 .greyborder {
-  border: 1px solid #e2e2e2;
+  border: 1px solid #f2f2f2;
+  color: #333;
 }
 
 .daysheader {
-  border-bottom: 2px solid #e2e2e2;
+  border-bottom: 3px solid #f2f2f2;
 }
 
 .week1 {
@@ -19,13 +21,41 @@ html {
 }
 
 .week3 {
-  height: 7em;
+  height: 5em;
 }
 
 .week4 {
-  height: 11em;
+  height: 10em;
 }
 
 .week5 {
-  height: 10em;
+  height: 9em;
+}
+
+.grey {
+  background-color: #ccc;
+  border: solid 1px #333;
+  border-radius: 8px;
+  color: #666;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  border-radius: 8px;
+  color: #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  border-radius: 8px;
+  color: #38448e;
 }
